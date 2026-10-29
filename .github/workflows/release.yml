@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   release:
-    runs-on: cloudhippie
+    runs-on: ubuntu-latest
 
     steps:
       - name: Setup nodejs

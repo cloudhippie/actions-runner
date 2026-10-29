@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.0](https://github.com/cloudhippie/actions-runner/compare/v1.0.0...v1.1.0) (2026-10-29)
+
+### Features
+
+* integrate jq installation ([389ff7d](https://github.com/cloudhippie/actions-runner/commit/389ff7d96689c2e844ad05ae760465139b71f415))
+
 ## 1.0.0 (2026-10-29)
 
 ### Features

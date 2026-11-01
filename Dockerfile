@@ -17,7 +17,7 @@ RUN apt update -y && \
 ENV GH_VERSION=2.103.3
 
 # renovate: datasource=github-releases depName=itchyny/gojq
-ENV JQ_VERSION=0.12.19
+ENV JQ_VERSION=0.12.20
 
 ARG TARGETARCH
 RUN case "${TARGETARCH}" in \

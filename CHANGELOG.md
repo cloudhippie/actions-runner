@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/cloudhippie/actions-runner/compare/v1.1.0...v1.1.1) (2026-11-02)
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.9 ([#5](https://github.com/cloudhippie/actions-runner/issues/5)) ([1cff3b7](https://github.com/cloudhippie/actions-runner/commit/1cff3b765afe6599e1cc40fc75ed22eb54f029b0))
+* **patch:** update dependency itchyny/gojq to v0.12.20 ([#6](https://github.com/cloudhippie/actions-runner/issues/6)) ([1d89d97](https://github.com/cloudhippie/actions-runner/commit/1d89d973df5f186639f57b8f3548711900ed1867))
+
 ## [1.1.0](https://github.com/cloudhippie/actions-runner/compare/v1.0.0...v1.1.0) (2026-10-29)
 
 ### Features

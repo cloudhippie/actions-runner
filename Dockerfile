@@ -14,7 +14,7 @@ RUN apt update -y && \
   rm -rf /var/lib/apt/lists/*
 
 # renovate: datasource=github-releases depName=cli/cli
-ENV GH_VERSION=2.103.3
+ENV GH_VERSION=2.104.0
 
 # renovate: datasource=github-releases depName=itchyny/gojq
 ENV JQ_VERSION=0.12.20

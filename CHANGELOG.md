@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.2.0](https://github.com/cloudhippie/actions-runner/compare/v1.1.1...v1.2.0) (2026-11-16)
+
+* automated release update [skip ci] ([2ecd23d](https://github.com/cloudhippie/actions-runner/commit/2ecd23d37043783ca7b08dc234c514318b5f3ba8))
+
+### Dependencies
+
+* **minor:** update dependency cli/cli to v2.104.0 ([#9](https://github.com/cloudhippie/actions-runner/issues/9)) ([946d883](https://github.com/cloudhippie/actions-runner/commit/946d883399c1116cd2050e7a03932556c26c8604))
+* **mise:** update dependency prek to v0.5.10 ([#7](https://github.com/cloudhippie/actions-runner/issues/7)) ([68b9654](https://github.com/cloudhippie/actions-runner/commit/68b965434c3a14b982fa2fe51acbaa0b956533ae))
+* **mise:** update dependency prek to v0.5.11 ([#10](https://github.com/cloudhippie/actions-runner/issues/10)) ([8056d59](https://github.com/cloudhippie/actions-runner/commit/8056d59f12903f5c748db6e3b7460b8e383cb666))
+* **patch:** update ghcr.io/actions/actions-runner:2.338.2 docker digest to 6d0b2d8 ([#8](https://github.com/cloudhippie/actions-runner/issues/8)) ([f006250](https://github.com/cloudhippie/actions-runner/commit/f006250e6f0d9ffb1633e5f5f3c77da9e5eab760))
+
 ## [1.1.1](https://github.com/cloudhippie/actions-runner/compare/v1.1.0...v1.1.1) (2026-11-02)
 
 ### Dependencies

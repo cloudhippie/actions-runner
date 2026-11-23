@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.0](https://github.com/cloudhippie/actions-runner/compare/v1.2.0...v1.3.0) (2026-11-23)
+
+### Dependencies
+
+* **minor:** update dependency cli/cli to v2.105.0 ([#11](https://github.com/cloudhippie/actions-runner/issues/11)) ([1e60124](https://github.com/cloudhippie/actions-runner/commit/1e601247278020fbea645d7045592fa0cf42986b))
+
 ## [1.2.0](https://github.com/cloudhippie/actions-runner/compare/v1.1.1...v1.2.0) (2026-11-16)
 
 * automated release update [skip ci] ([2ecd23d](https://github.com/cloudhippie/actions-runner/commit/2ecd23d37043783ca7b08dc234c514318b5f3ba8))

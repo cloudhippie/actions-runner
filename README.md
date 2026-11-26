@@ -84,7 +84,7 @@ Copyright (c) 2023 Cloudhippie <info@cloudhippie.de>
 [ghcr]: https://github.com/cloudpunks/actions-runner/pkgs/container/actions-runner
 [mise]: https://mise.jdx.dev/
 [mise-install]: https://mise.jdx.dev/getting-started.html
-[website]: https://cloudhippie.de
+[website]: https://www.cloudhippie.de
 [hugo]: https://github.com/spf13/hugo
 [commits]: https://www.conventionalcommits.org/en/v1.0.0/
 [semver]: https://semver.org/
